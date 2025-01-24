@@ -14,8 +14,3 @@ This project demonstrates the creation of an **end-to-end data pipeline** for co
   - **QuickSight** for visualizing game performance metrics
   - **Lambda** (optional) for triggering data pipelines
 - **CI/CD**: GitHub Actions for pipeline automation, Terraform for AWS resource management
-
----
-
-## Project Structure
-
